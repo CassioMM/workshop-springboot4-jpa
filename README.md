@@ -9,13 +9,13 @@ Big Game Survey é uma aplicação full stack web e mobile construída durante a
 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## Layout H2 Console
+<img width="820" height="420" alt="H2Console" src="https://github.com/user-attachments/assets/2e4509db-e31c-4656-865d-9f654139722f" />
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Layout Postman
+<img width="847" height="620" alt="Postman" src="https://github.com/user-attachments/assets/ce1ff365-6a69-4d72-b98e-9ed83f728fc9" />
+
 
 ## Modelo conceitual
 <img width="1139" height="444" alt="Screenshot 2026-01-21 at 15-47-11 Microsoft Word - web-services-Spring-Boot-JPA-Hibernate docx - web-services-Spring-Boot-JPA-Hibernate pdf" src="https://github.com/user-attachments/assets/dd4ff86f-bf92-42aa-94d9-060330c5871d" />
@@ -45,7 +45,7 @@ Pré-requisitos: Java 25
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/CassioMM/workshop-springboot4-jpa/tree/main
 
 # entrar na pasta do projeto back end
 cd backend
